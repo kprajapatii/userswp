@@ -161,6 +161,9 @@ Yes, you can customize it with Elementor, but also with Gutenberg, Divi, Beaver 
 
 == Changelog ==
 
+= 1.2.81 - TBD =
+* User badge shortcode could output unsanitized HTML from the badge, popover, hover and link parameters - FIXED/SECURITY
+
 = 1.2.80 - 2026-11-02 =
 * Update AUI 0.2.59 - CHANGED
 
